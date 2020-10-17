@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(to bottom, rgb(110, 110, 187), rgb(145, 106, 173), lightblue);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-size: cover;
+    height: 100%;
+    font-size: 1.3rem;
+    background-attachment: fixed;
+    color: rgb(94, 97, 99);
+    background-repeat: no-repeat;
+    background-image: url("https://cdn.pixabay.com/photo/2016/03/18/15/02/ufo-1265186_960_720.jpg");
+}
